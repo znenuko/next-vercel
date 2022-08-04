@@ -12,7 +12,7 @@ export const MainLayout : FC<PropsWithChildren<unknown>> = ({ children }) => {
         <div className={styles.container}>
           
           <Head>
-            <title>Home - Fernando</title>
+            <title>Antony</title>
             <meta name="description" content="Home Page" />
             <link rel="icon" href="/favicon.ico" />
           </Head>
